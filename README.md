@@ -1,4 +1,6 @@
-<a href="https://github.com/sumant2000"><img alt="views" title="Github views" src="(https://github.com/sumant2000)&style=flat-square" width="125"/></a>
+<a href="https://github.com/sumant2000">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="40" height="40">
+</a>
 
 <h1 align="left">Hello, I'm <a href="https://www.linkedin.com/in/sumanttecharchitect/">Sumant Khapre</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 <a href="https://github.com/sumant2000/"><img align="right" src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" alt="Your Projects" width="200"/></a> - Tech Architect and Developer</h1> 
