@@ -1,7 +1,7 @@
 <a href="https://github.com/sumant2000"><img alt="views" title="Github views" src="(https://github.com/sumant2000)&style=flat-square" width="125"/></a>
 
 <h1 align="left">Hello, I'm <a href="https://www.linkedin.com/in/sumanttecharchitect/">Sumant Khapre</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-<a href="https://github.com/sumant-tech/"><img align="right" src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" alt="Your Projects" width="200"/></a> - Tech Architect and Developer</h1> 
+<a href="https://github.com/sumant2000/"><img align="right" src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" alt="Your Projects" width="200"/></a> - Tech Architect and Developer</h1> 
 
 ### 2X AWS Certified | Java SE 8 & 11 Certified | Enterprise Architect | Microservices Specialist
 
@@ -11,7 +11,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/sumanttecharchitect/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sumant2000@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/sumant-tech"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/sumant2000"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://medium.com/@sumant2000"><img title="Read on Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
@@ -26,6 +26,7 @@ Need assistance with project development, API integration, or cloud architecture
 - Payment Gateway Integration Specialist
 - API Integration using REST, gRPC, and various cloud technologies
 - DevOps and CI/CD with Jenkins, Docker, and Terraform
+- Secure coding in Java and GO and Python and NODE
 
 ## ⚙️ Tools & Technologies Used
 
@@ -48,6 +49,8 @@ Need assistance with project development, API integration, or cloud architecture
 - Microsoft Certified: Azure AI Engineer Associate
 - Oracle Certified Professional, Java SE 8 & SE 11 Programmer
 - Apache Kafka Essential Training
+- TOGAF Certified
+- AWS certified
 
 ## 📚 Publications
-- Check out my latest articles on Medium: <a href="https://medium.com/@sumant2000">My Medium Blog</a>
+- Check out my latest articles on Medium: <a href="[https://medium.com/@sumant2000](https://medium.com/@sumant2000)">My Medium Blog</a>
